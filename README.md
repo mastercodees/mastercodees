@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python basics, C# basics,data cs**
 
-- 💬 Ask me about **c,c++,html,CSS,Javascript**
+- 💬 Ask me about **C,C++,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **vladmirnyataige@gmail.com**
 
